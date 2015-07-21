@@ -1,6 +1,8 @@
 Spark Kernel
 ============
 
+[![Join the chat at https://gitter.im/ibm-et/spark-kernel](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ibm-et/spark-kernel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status][build-badge]][build-url]
 [![Coverage Status][coverage-badge]][coverage-url]
 [![Scaladoc][scaladoc-badge]][scaladoc-url]
